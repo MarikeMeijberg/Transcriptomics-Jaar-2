@@ -22,13 +22,13 @@ LBM2A - J2P4 - Transcriptomics
 
 ---
 
-##🧠 Introductie
+## 🧠 Introductie
 
 Deze GitHub pagina staat in het teken van magische spreuken en hun eigenschappen (Harry Potter⚡). Met behulp van historische registergegevens kan de **kracht**, **nauwkeurigheid** en het **risiconiveau** geanalyseerd worden. Voor een goede tovenaar is het van belang dat de gebruikte spreuken effectief en veilig zijn om te gebruiken. Daarnaast is het van belang voor elke tovenaar om rekening te houden met de compatibiliteit van het type toverstok dat gebruikt wordt om de geschiktheid van spreukgebruik af te stemmen.  
 
 Heb je Harry Potter nooit gelezen? Moet je echt doen, [klik maar hier](bronnen/harry-potter.pdf).
 
-##🧬 Methoden
+## 🧬 Methoden
 Voor deze transcriptomics-analyse werd gebruikgemaakt van RNA-sequencingdata van acht personen: vier met reumatoïde artritis (RA) en vier zonder RA. De [ruwe sequencingbestanden](Ruwe%20data/)
  (FASTQ) werden uitgepakt en ingelezen in R. Vervolgens werd het [humane referentiegenoom](Referentie%20genoom) geïndexeerd met het pakket Rsubread, waarna de reads van de samples werden uitgelijnd met de functie align(). De gegenereerde [BAM-bestanden](BAM%20files) zijn gebruikt voor analyse.
 Met featureCounts werd er een countmatrix gemaakt, waarbij een aangepaste GTF-annotatie werd gebruikt om alleen op exons te tellen. Vervolgens is er een [volledige count-matrix](Count%20matrix) gebruikt voor verder onderzoek.

@@ -7,13 +7,7 @@ setwd("C:/Users/meijb/OneDrive/Documenten/Marike R/Casus Transcriptomics/")
 </p>
 
 
-# 🧙‍♂️ Wizarding Spell Metrics
-
-Welkom in **Wizarding Spell Metrics**, waar de data nep is, maar de structuur *verrassend oké* is. Deze repo is gemaakt om te laten zie hoe je een bio-informatica project structureert in GitHub met behulp van een onzin dataset. files mogen gedownload en hergebruikt worden (zoals [deze README.md file](README.md)). Vraag ook gerust AI voor tips!
-
-Perfect voor:
-- Wegwijs worden in GitHub
-- Het leren structureren van data
+# Transcriptomics 
 
 > `I will not have you in my class if you continue to be a babbling, bumbling band of baboons who can't even SORT their data!`
 

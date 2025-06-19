@@ -13,7 +13,7 @@ setwd("C:/Users/meijb/OneDrive/Documenten/Marike R/Casus Transcriptomics/")
 
 ## 📁 Inhoud/structuur
 
-- `Introductie` – fictionele datasets voor de analyse van spreuk effectiviteit, gevaar en welke spreuken het beste samengaan met verschillende types staf.  
+- `Introductie` – Kort introductie en achtergrond informatie.  
 - `data/processed` - verwerkte datasets gegenereerd met scripts 
 - `scripts/` – scripts om prachtige onzin te genereren
 - `resultaten/` - grafieken en tabellen

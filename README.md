@@ -1,6 +1,6 @@
 # Transcriptomics-Jaar-2
  
-
+setwd("C:/Users/meijb/OneDrive/Documenten/Marike R/Casus Transcriptomics/")
 
 <p align="center">
   <img src="assets/Logo_SpellMetrics.png" alt="Wizarding Spell Metrics Logo" width="600"/>
@@ -41,6 +41,10 @@ Voor deze transcriptomics-analyse werd gebruikgemaakt van RNA-sequencingdata van
 Met featureCounts werd er een countmatrix gemaakt, waarbij een aangepaste GTF-annotatie werd gebruikt om alleen op exons te tellen. Vervolgens is er een volledige count-matrix gebruikt voor verder onderzoek.
 De verschillen in genexpressie tussen RA en controle werden bepaald met het pakket DESeq2. De resultaten werden geëxporteerd naar een CSV-bestand en gevisualiseerd met behulp van EnhancedVolcano.
 Vervolgens werd met een R-pakket (goseq) onderzocht welke biologische processen verhoogt voorkwamen in genen die anders tot expressie kwamen bij RA. Deze processen (Go-termen) kunnen betrokken zijn bij de ziekte en werden gevisualiseerd met behulp van ggplots2. Daarna is er een KEGG-analyse om dieper in te gaan op de biochemische pathways, die zijn gevisualiseerd met behulp van pathview. Het onderzoek is vastgelegd volgend de principes van data stewardship, met duidelijke mappen structuur en reproduceerbaarheid. 
+
+📄 **[Klik hier voor het volledige script](script.R)**  
+
+
 
 
 ## 📊 Resultaten

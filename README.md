@@ -1,10 +1,9 @@
 # Transcriptomics-Jaar-2
  
-setwd("C:/Users/meijb/OneDrive/Documenten/Marike R/Casus Transcriptomics/")
+Welkom bij mijm Github-pagina Dewi ;)
 
-<p align="center">
-  <img src="assets/Logo_SpellMetrics.png" alt="Wizarding Spell Metrics Logo" width="600"/>
-</p>
+Marike Meijberg
+LBM2A - J2P4 - Transcriptomics
 
 
 # Transcriptomics 
@@ -13,12 +12,15 @@ setwd("C:/Users/meijb/OneDrive/Documenten/Marike R/Casus Transcriptomics/")
 
 ## 📁 Inhoud/structuur
 
-- `Introductie` – Kort introductie en achtergrond informatie.  
-- `data/processed` - verwerkte datasets gegenereerd met scripts 
-- `scripts/` – scripts om prachtige onzin te genereren
-- `resultaten/` - grafieken en tabellen
-- `bronnen/` - gebruikte bronnen 
-- `README.md` - het document om de tekst hier te genereren
+- `Introductie` – Korte introductie en achtergrond informatie.  
+- `Methode` - Methode gebruikt voor analyses. 
+- `Scripts` – Scripts voor extra uitleg over de gebruikte analyses en methodes. 
+- `Resultaten/` - Volcanoplot, go-analyse en KEGG analyse.
+- `Bronnen/` - Gebruikte bronnen.
+- `README.md` - Het document om de tekst hier te genereren.
+
+
+
 - `assets/` - overige documenten voor de opmaak van deze pagina
 - `data_stewardship/` - Voor de competentie beheren ga je aantonen dat je projectgegevens kunt beheren met behulp van GitHub. In deze folder kan je hulpvragen terugvinden om je op gang te helpen met de uitleg van data stewardship. 
 

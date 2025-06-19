@@ -15,8 +15,8 @@ LBM2A - J2P4 - Transcriptomics
 - `Introductie` – Korte introductie en achtergrond informatie.  
 - `Methode` - Methode gebruikt voor analyses. 
 - `Scripts` – Scripts voor extra uitleg over de gebruikte analyses en methodes. 
-- `Resultaten/` - Volcanoplot, go-analyse en KEGG analyse.
-- `Bronnen/` - Gebruikte bronnen.
+- `Resultaten` - Volcanoplot, go-analyse en KEGG analyse.
+- `Bronnen` - Gebruikte bronnen.
 - `README.md` - Het document om de tekst hier te genereren.
 
 

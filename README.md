@@ -37,7 +37,7 @@ Deze GitHub pagina staat in het teken van magische spreuken en hun eigenschappen
 Heb je Harry Potter nooit gelezen? Moet je echt doen, [klik maar hier](bronnen/harry-potter.pdf).
 
 ## Methoden
-Voor deze transcriptomics-analyse werd gebruikgemaakt van RNA-sequencingdata van acht personen: vier met reumatoïde artritis (RA) en vier zonder RA. De ruwe sequencingbestanden (FASTQ) werden uitgepakt en ingelezen in R. Vervolgens werd het humane referentiegenoom geïndexeerd met het pakket Rsubread, waarna de reads van de samples werden uitgelijnd met de functie align(). De gegenereerde BAM-bestanden zijn gebruikt voor analyse.
+Voor deze transcriptomics-analyse werd gebruikgemaakt van RNA-sequencingdata van acht personen: vier met reumatoïde artritis (RA) en vier zonder RA. De **[ruwe sequencingbestanden ](Ruwe data)** (FASTQ) werden uitgepakt en ingelezen in R. Vervolgens werd het humane referentiegenoom geïndexeerd met het pakket Rsubread, waarna de reads van de samples werden uitgelijnd met de functie align(). De gegenereerde BAM-bestanden zijn gebruikt voor analyse.
 Met featureCounts werd er een countmatrix gemaakt, waarbij een aangepaste GTF-annotatie werd gebruikt om alleen op exons te tellen. Vervolgens is er een volledige count-matrix gebruikt voor verder onderzoek.
 De verschillen in genexpressie tussen RA en controle werden bepaald met het pakket DESeq2. De resultaten werden geëxporteerd naar een CSV-bestand en gevisualiseerd met behulp van EnhancedVolcano.
 Vervolgens werd met een R-pakket (goseq) onderzocht welke biologische processen verhoogt voorkwamen in genen die anders tot expressie kwamen bij RA. Deze processen (Go-termen) kunnen betrokken zijn bij de ziekte en werden gevisualiseerd met behulp van ggplots2. Daarna is er een KEGG-analyse om dieper in te gaan op de biochemische pathways, die zijn gevisualiseerd met behulp van pathview. Het onderzoek is vastgelegd volgend de principes van data stewardship, met duidelijke mappen structuur en reproduceerbaarheid. 
@@ -45,7 +45,6 @@ Vervolgens werd met een R-pakket (goseq) onderzocht welke biologische processen 
 📄 **[Klik hier voor het volledige script](script.R)**  
 
 [![Klik hier voor het volledige script](https://img.shields.io/badge/script-pink?style=flat&logo=R&logoColor=white)](script.R)
-
 
 
 ## 📊 Resultaten

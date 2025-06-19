@@ -45,6 +45,7 @@ Vervolgens werd met een R-pakket (goseq) onderzocht welke biologische processen 
 📄 **[Klik hier voor het volledige script](script.R)**  
 
 
+<a href="script.R" style="color:pink;">Klik hier voor het volledige script</a>
 
 
 ## 📊 Resultaten

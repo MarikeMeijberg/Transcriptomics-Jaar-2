@@ -1,6 +1,6 @@
 # Transcriptomics-Jaar-2
  
-Welkom bij mijm Github-pagina Dewi ;)
+Welkom bij mijn Github-pagina Dewi ;)
 
 Marike Meijberg
 LBM2A - J2P4 - Transcriptomics
@@ -42,9 +42,11 @@ Vervolgens werd met een R-pakket (goseq) onderzocht welke biologische processen 
 
 ## 📊 Resultaten
 
-Om inzicht te krijgen in eigenschappen van de te gebruiken spreuken is er een overzicht gemaakt, te vinden in [deze tabel](resultaten/top_10_spells.csv). Onvergeeflijke vloeken zijn niet meegenomen in dit overzicht. 
+**🌋 Volcanoplot van genexpressie (EnhancedVolcano)**
+<img src="/Users/" width ="300" height ="500">
 
-Om een afweging te maken welke spreuken het meest effectief zijn, is er onderzocht of er een verband te vinden is tussen kracht en accuraatheid. In [het resultaat hiervan](resultaten/spell_power_vs_accuracy.png) is te zien dat er een negatieve daling lijkt te zijn in kracht als de accuraatheid toeneemt. Een uitschieter is de onvergeeflijke vloek *Avada Kedavra*, met zowel hoge kracht als accuraatheid. 
+
+![Volcanoplot](Resultaten/Volcanoplot.png)
 
 ## Conclusie
 

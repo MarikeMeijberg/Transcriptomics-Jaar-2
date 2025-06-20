@@ -46,28 +46,29 @@ Vervolgens werd met een R-pakket (goseq) onderzocht welke biologische processen 
 In figuur 1 is een volcanoplot zichtbaar van 29.407 genen zichtbaar. Er is zichtbaar dat er veel genen zijn rond de log2-fold = 0, die niet significant verschillen. De groene stippen zijn de genen die significant verschillen van expressie. 
 
 <img src="Resultaten/Volcanoplot.png" width ="250" height ="350">
-Figuur 1: Volcanoplot toont de log2-fold change (x-as) tegen de -log10 p-waarde (y-as) voor alle gemeten genen (totaal: 29.407)
+**Figuur 1: Volcanoplot toont de log2-fold change (x-as) tegen de -log10 p-waarde (y-as) voor alle gemeten genen (totaal: 29.407)**
 
 **[Afbeelding vergroten 🔍](Resultaten/Volcanoplot.png)**
 
 
-**🌋 Volcanoplot van genexpressie (EnhancedVolcano)**
+### 📊 GO-analyse
+In figuur 2 is duidelijk zichtbaar de gen expressie in processen zoals bijvoorbeeld, het immuun-respons significant veranderd zijn. 
 
-<img src="Resultaten/hsa05323 pathview results.png" width ="500" height ="350">
+<img src="Resultaten/Go-analyse.pdf" width ="500" height ="350">
+Figuur 2: Barplot Go-analyse, toont aan bij welke processen meeste verandering in gen expressie is waargenomen. 
+
+**[Afbeelding vergroten 🔍](Resultaten/Go-anlyse.pdf)**
 
 
-**[Afbeelding vergroten 🔍](Resultaten/hsa05323%20pathview%20results.png)**
-
-
-### 🧬Pathway-analyse KEGG Rheumatoïde Artritis
+### 🧬 Pathway-analyse KEGG Rheumatoïde Artritis
 In figuur 3 zijn ovallende bevindingen waargenomen, waaronder de genen **IL6, IL1β en MMP13** die verhoogd tot expressie komen. Deze genen zijn betrokken bij ontsteking, kraakbeenschade en gewrichtsvernietiging. Ook zijn er genen zoals, **TGFβ**, (betrokken bij immuunonderdrukking en weefselherstel) en **IL23** (stimuleert ontstekingsbevorderende T-cellen), die juist onderdukt worden.
 
 <img src="Resultaten/hsa05323 pathview results.png" width ="500" height ="350">
-Figuur 3: KEGG pathview afbeelding, geeft duidelijk verhoogd (Rood) en verlaagde (Groen) activiteit van ontstekingsgenen weer. 
+**Figuur 3: KEGG pathview afbeelding, geeft duidelijk verhoogd (Rood) en verlaagde (Groen) activiteit van ontstekingsgenen weer.** 
 
 **[Afbeelding vergroten 🔍](Resultaten/hsa05323%20pathview%20results.png)**
 
 
 ## Conclusie
-
+De verrijkte GO-termen benadrukken dat genen betrokken bij immuunrespons en celactivatie centraal staan in de moleculaire signatuur van RA
 Spreuken met meer accuraatheid lijken minder krachtig te zijn. Een uitzondering op deze trend is de onvergeeflijke vloek *Avada Kedavra*, welke beter niet gebruikt kan worden. 

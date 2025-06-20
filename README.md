@@ -59,7 +59,7 @@ Figuur 1: Volcanoplot toont de log2-fold change (x-as) tegen de -log10 p-waarde 
 **[Afbeelding vergroten 🔍](Resultaten/hsa05323%20pathview%20results.png)**
 
 
-###🧬 Pathway-analyse KEGG Rheumatoïde Artritis
+### 🧬Pathway-analyse KEGG Rheumatoïde Artritis
 
 <img src="Resultaten/hsa05323 pathview results.png" width ="500" height ="350">
 Figuur 3: KEGG pathview afbeelding, geeft duidelijk verhoogd en verlaagde activiteit van ontstekingsgenen weer. 

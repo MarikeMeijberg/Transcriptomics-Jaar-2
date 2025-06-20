@@ -46,7 +46,7 @@ Vervolgens werd met een R-pakket (goseq) onderzocht welke biologische processen 
 
 <img src="Resultaten/Volcanoplot.png" width ="200" height ="350">
 
-**[🔍](Resultaten/Volcanoplot.png)**
+**[Afbeelding vergroten 🔍](Resultaten/Volcanoplot.png)**
 
 ## Conclusie
 

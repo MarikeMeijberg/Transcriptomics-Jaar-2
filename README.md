@@ -60,9 +60,10 @@ Figuur 1: Volcanoplot toont de log2-fold change (x-as) tegen de -log10 p-waarde 
 
 
 ### 🧬Pathway-analyse KEGG Rheumatoïde Artritis
+In figuur 3 zijn ovallende bevindingen waargenomen, waaronder de genen **IL6, IL1β en MMP13** die verhoogd tot expressie komen. Deze genen zijn betrokken bij ontsteking, kraakbeenschade en gewrichtsvernietiging. Ook zijn er genen zoals, **TGFβ**, (betrokken bij immuunonderdrukking en weefselherstel) en **IL23** (stimuleert ontstekingsbevorderende T-cellen), die juist onderdukt worden.
 
 <img src="Resultaten/hsa05323 pathview results.png" width ="500" height ="350">
-Figuur 3: KEGG pathview afbeelding, geeft duidelijk verhoogd en verlaagde activiteit van ontstekingsgenen weer. 
+Figuur 3: KEGG pathview afbeelding, geeft duidelijk verhoogd (Rood) en verlaagde (Groen) activiteit van ontstekingsgenen weer. 
 
 **[Afbeelding vergroten 🔍](Resultaten/hsa05323%20pathview%20results.png)**
 

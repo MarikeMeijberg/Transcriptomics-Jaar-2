@@ -53,9 +53,9 @@ Vervolgens werd met een R-pakket (goseq) onderzocht welke biologische processen 
 
 **🌋 Volcanoplot van genexpressie (EnhancedVolcano)**
 
-<img src="Resultaten/hsa05323 pathview results.png" width ="250" height ="350">
+<img src="Resultaten/hsa05323 pathview results.png" width ="500" height ="350">
 
-**[Afbeelding vergroten 🔍](Resultaten/hsa05323 pathview results.png)**
+**[Afbeelding vergroten 🔍](Resultaten/hsa05323%20pathview%20results.png)**
 
 
 

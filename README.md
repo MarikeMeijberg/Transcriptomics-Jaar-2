@@ -46,7 +46,7 @@ Vervolgens werd met een R-pakket (goseq) onderzocht welke biologische processen 
 In figuur 1 is een volcanoplot zichtbaar van 29.407 genen zichtbaar. Er is zichtbaar dat er veel genen zijn rond de log2-fold = 0, die niet significant verschillen. De groene stippen zijn de genen die significant verschillen van expressie. 
 
 <img src="Resultaten/Volcanoplot.png" width ="250" height ="350">
-** Figuur 1: Volcanoplot toont de log2-fold change (x-as) tegen de -log10 p-waarde (y-as) voor alle gemeten genen (totaal: 29.407)**
+Figuur 1: Volcanoplot toont de log2-fold change (x-as) tegen de -log10 p-waarde (y-as) voor alle gemeten genen (totaal: 29.407)
 
 **[Afbeelding vergroten 🔍](Resultaten/Volcanoplot.png)**
 
@@ -64,11 +64,12 @@ Figuur 2: Barplot Go-analyse, toont aan bij welke processen meeste verandering i
 In figuur 3 zijn ovallende bevindingen waargenomen, waaronder de genen **IL6, IL1β en MMP13** die verhoogd tot expressie komen. Deze genen zijn betrokken bij ontsteking, kraakbeenschade en gewrichtsvernietiging. Ook zijn er genen zoals, **TGFβ**, (betrokken bij immuunonderdrukking en weefselherstel) en **IL23** (stimuleert ontstekingsbevorderende T-cellen), die juist onderdukt worden.
 
 <img src="Resultaten/hsa05323 pathview results.png" width ="500" height ="350">
-** Figuur 3: KEGG pathview afbeelding, geeft duidelijk verhoogd (Rood) en verlaagde (Groen) activiteit van ontstekingsgenen weer.** 
+Figuur 3: KEGG pathview afbeelding, geeft duidelijk verhoogd (Rood) en verlaagde (Groen) activiteit van ontstekingsgenen weer.
 
 **[Afbeelding vergroten 🔍](Resultaten/hsa05323%20pathview%20results.png)**
 
 
 ## ⚡Conclusie
-De verrijkte GO-termen benadrukken dat genen betrokken bij immuunrespons en celactivatie centraal staan in de moleculaire signatuur van RA
-Spreuken met meer accuraatheid lijken minder krachtig te zijn. Een uitzondering op deze trend is de onvergeeflijke vloek *Avada Kedavra*, welke beter niet gebruikt kan worden. 
+De resultaten tonen aan dat er een verandering in genexpressie is bij patiënten RA. Dit is bevestigd in de volcanoplot, die aangaf dat er een veel significant verschillende genen zijn bij RA patiënten. In de Go-analyse is aangetoond dat veel genen die significant verschillen betrokken zijn bij het immuunrespons. Dit is verder bevestigd door de KEGG pathways waar genen **IL6, IL1β en MMP13** verhoogd tot expressie kwamen. Deze genen zijn betrokken bij ontsteking, kraakbeenschade en gewrichtsvernietiging. Ook waren er genen zoals, **TGFβ**, (betrokken bij immuunonderdrukking en weefselherstel) en **IL23** (stimuleert ontstekingsbevorderende T-cellen), die juist onderdukt werden. Dit gaf aan dat er bij mensen met RA een verstoring plaats vond in ontstekingregulatie.
+
+In dit onderzoek is dus aangetoond dat transcriptomics een handige tool is in het begrijpen van de ziekte RA. Daarom word aanbevolen meer onderzoek te doen met grotere groepen en bijvoorbeeld

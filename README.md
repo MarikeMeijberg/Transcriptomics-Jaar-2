@@ -44,8 +44,9 @@ Vervolgens werd met een R-pakket (goseq) onderzocht welke biologische processen 
 
 ### 🌋 Volcanoplot van genexpressie (EnhancedVolcano)
 
+
 <img src="Resultaten/Volcanoplot.png" width ="250" height ="350">
-Bijschrift komt hier
+De volcanoplot toont de log2-fold change (x-as) tegen de -log10 p-waarde (y-as) voor alle gemeten genen (totaal: 29.407)
 
 **[Afbeelding vergroten 🔍](Resultaten/Volcanoplot.png)**
 

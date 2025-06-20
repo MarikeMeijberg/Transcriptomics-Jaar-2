@@ -43,14 +43,13 @@ Vervolgens werd met een R-pakket (goseq) onderzocht welke biologische processen 
 ## 📊 Resultaten
 
 ### 🌋 Volcanoplot van genexpressie (EnhancedVolcano)
-
+In figuur 1 is een volcanoplot zichtbaar van 29.407 genen zichtbaar. Er is zichtbaar dat er veel genen zijn rond de log2-fold = 0, die niet significant verschillen. De groene stippen zijn de genen die significant verschillen van expressie. 
 
 <img src="Resultaten/Volcanoplot.png" width ="250" height ="350">
-De volcanoplot toont de log2-fold change (x-as) tegen de -log10 p-waarde (y-as) voor alle gemeten genen (totaal: 29.407)
+Figuur 1: Volcanoplot toont de log2-fold change (x-as) tegen de -log10 p-waarde (y-as) voor alle gemeten genen (totaal: 29.407)
 
 **[Afbeelding vergroten 🔍](Resultaten/Volcanoplot.png)**
 
-Hier komt gewone text wat is er zichtbaar
 
 **🌋 Volcanoplot van genexpressie (EnhancedVolcano)**
 
@@ -60,15 +59,12 @@ Hier komt gewone text wat is er zichtbaar
 **[Afbeelding vergroten 🔍](Resultaten/hsa05323%20pathview%20results.png)**
 
 
-**🌋 Volcanoplot van genexpressie (EnhancedVolcano)**
+###🧬 Pathway-analyse KEGG Rheumatoïde Artritis
 
 <img src="Resultaten/hsa05323 pathview results.png" width ="500" height ="350">
-Bijschrift komt hier
-
+Figuur 3: KEGG pathview afbeelding, geeft duidelijk verhoogd en verlaagde activiteit van ontstekingsgenen weer. 
 
 **[Afbeelding vergroten 🔍](Resultaten/hsa05323%20pathview%20results.png)**
-
-Hier komt gewone text.
 
 
 ## Conclusie

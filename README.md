@@ -8,8 +8,6 @@ LBM2A - J2P4 - Transcriptomics
 
 # Transcriptomics 
 
-> `I will not have you in my class if you continue to be a babbling, bumbling band of baboons who can't even SORT their data!`
-
 ## 📁 Inhoud/structuur
 
 - `Introductie` – Korte introductie en achtergrond informatie.  
@@ -23,8 +21,12 @@ LBM2A - J2P4 - Transcriptomics
 ---
 
 ## 🧠 Introductie
+Reumatoïde artritis (RA) is een auto-immuunziekte die zorgt voor chronische inflammatie in gewrichten, voornamelijk in de handen en voeten. Het zorgt voor veel pijn en op den duur ook weefselschade en functie-verlies. De exacte oorzaak is nog onbekend, maar men neemt wel aan dat het zeer waarschijnlijk een genetische oorzaak heeft. ​(Hall et al., 2024)​  
 
-Reuma
+ 
+
+Transcriptomics is een technologie, die complexe analyses kan uitvoeren op het gebied van RNA-expressie. Met behulp van RNA sequencing en transcriptomics kunnen verschillen in genexpressie bij mensen met RA en gezonde mensen in kaart gebracht worden ​(Miyamoto et al., 2025) ​. Binnen transcriptomics kan worden gekeken naar biologische processen, betrokken genen, en signaalroutes. Dit kan met behulp van KEGG-pathways en Gene Ontology. In dit onderzoek worden patiënten met RA vergeleken met gezonde individuen om te kijken of er bepaalde genen meer of minder tot expressie komen en er word gekeken of metabole processen anders verlopen bij RA.​(Wang et al., 2024)​
+
 
 ## 🧬 Methoden
 Voor deze transcriptomics-analyse werd gebruikgemaakt van RNA-sequencingdata van acht personen: vier met reumatoïde artritis (RA) en vier zonder RA. De [ruwe sequencingbestanden](Ruwe%20data/)

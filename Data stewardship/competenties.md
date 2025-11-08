@@ -25,17 +25,17 @@ Bij een Transcriptomics onderzoek is veiligheid erg belangrijk. Dit gaat om veil
 
 - `Open data` Wees transparant naar anderen over je onderzoek. Zorg er voor dat alles goed is gedocumenteerd en dat mensen niet alleen je script kunnen inkijken maar ook, gebruikte datasets en andere documenten gerelateerd aan je onderzoek. Een goede manier om dit te documenteren is door het maken van een GitHub pagina. 
 
-GitHub
+## GitHub
 
-Waarom is dit een goede manier van documenteren?
+### Waarom is dit een goede manier van documenteren?
 
-⦁	Alles is centraal en veilig opgeslagen
-⦁	Het draagt bij aan een goede versiebeheer
-⦁	Scrips, data, figuren en verslaglegging handig bij elkaar in één
-⦁	Het draagt bij aan open science en reproduceerbaarheid. 
-⦁	Houd het onderzoek transparant 
+-	Alles is centraal en veilig opgeslagen
+-	Het draagt bij aan een goede versiebeheer
+- Scrips, data, figuren en verslaglegging handig bij elkaar in één
+- Het draagt bij aan open science en reproduceerbaarheid. 
+- Houd het onderzoek transparant 
 
-Hoe maak je een GitHub?
+### Hoe maak je een GitHub?
 
 Ik een repository gemaakt waarin ik tekst, mappen, figuren, scripts en data kan bijhouden. Met behulp van een MarkDown in R heb ik een ReadMe gemaakt. Hier is mijn verslaglegging te lezen en zijn linkjes zichtbaar naar figuren en resultaten. In de GitHub pagina is ook een duidelijke mappenstructuur gemaakt, zodat alles terug te vinden is voor iedereen. De opmaak is met een paar simpele codes in R gemaakt, deze zijn allemaal te vinden online op verschillende plekken. 
 

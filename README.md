@@ -6,7 +6,7 @@ Marike Meijberg
 LBM2A - J2P4 - Transcriptomics
 
 
-# Transcriptomics 
+# Transcriptomics toont aan dat genen komen anders tot expressie bij patiënten met Rheumatoïde artitis 
 
 ## 📁 Inhoud/structuur
 
@@ -21,11 +21,11 @@ LBM2A - J2P4 - Transcriptomics
 ---
 
 ## 🧠 Introductie
-Reumatoïde artritis (RA) is een auto-immuunziekte die zorgt voor chronische inflammatie in gewrichten, voornamelijk in de handen en voeten. Het zorgt voor veel pijn en op den duur ook weefselschade en functie-verlies. De exacte oorzaak is nog onbekend, maar men neemt wel aan dat het zeer waarschijnlijk een genetische oorzaak heeft. ​(Hall et al., 2024)​  
+Rheumatoïde artritis (RA) is een auto-immuunziekte die zorgt voor chronische inflammatie in gewrichten, voornamelijk in de handen en voeten. Het zorgt voor veel pijn en op den duur ook weefselschade en functie-verlies. De exacte oorzaak is nog onbekend, maar men neemt wel aan dat het zeer waarschijnlijk een genetische oorzaak heeft. ​(Hall et al., 2024)​  
 
  
 
-Transcriptomics is een technologie, die complexe analyses kan uitvoeren op het gebied van RNA-expressie. Met behulp van RNA sequencing en transcriptomics kunnen verschillen in genexpressie bij mensen met RA en gezonde mensen in kaart gebracht worden ​(Miyamoto et al., 2025) ​. Binnen transcriptomics kan worden gekeken naar biologische processen, betrokken genen, en signaalroutes. Dit kan met behulp van KEGG-pathways en Gene Ontology. In dit onderzoek worden patiënten met RA vergeleken met gezonde individuen om te kijken of er bepaalde genen meer of minder tot expressie komen en er word gekeken of metabole processen anders verlopen bij RA.​(Wang et al., 2024)​
+Transcriptomics is een technologie, die complexe analyses kan uitvoeren op het gebied van RNA-expressie. Met behulp van RNA sequencing en transcriptomics kunnen verschillen in genexpressie bij mensen met RA en gezonde mensen in kaart gebracht worden ​(Miyamoto et al., 2025) ​. Binnen transcriptomics kan worden gekeken naar biologische processen, betrokken genen, en signaalroutes. Dit kan met behulp van KEGG-pathways en Gene Ontology. In dit onderzoek worden patiënten met RA vergeleken met gezonde individuen om te kijken of er bepaalde genen meer of minder tot expressie komen en er word gekeken of metabole processen anders verlopen bij RA. ​(Wang et al., 2024)​
 
 
 ## 🧬 Methoden
@@ -62,7 +62,7 @@ Figuur 2: Barplot Go-analyse, toont aan bij welke processen meeste verandering i
 
 
 ### 🧬 Pathway-analyse KEGG Rheumatoïde Artritis
-In figuur 3 zijn ovallende bevindingen waargenomen, waaronder de genen **IL6, IL1β en MMP13** die verhoogd tot expressie komen. Deze genen zijn betrokken bij ontsteking, kraakbeenschade en gewrichtsvernietiging. Ook zijn er genen zoals, **TGFβ**, (betrokken bij immuunonderdrukking en weefselherstel) en **IL23** (stimuleert ontstekingsbevorderende T-cellen), die juist onderdukt worden.
+In figuur 3 zijn opvallende bevindingen waargenomen, waaronder de genen **IL6, IL1β en MMP13** die verhoogd tot expressie komen. Deze genen zijn betrokken bij ontsteking, kraakbeenschade en gewrichtsvernietiging. Ook zijn er genen zoals, **TGFβ**, (betrokken bij immuunonderdrukking en weefselherstel) en **IL23** (stimuleert ontstekingsbevorderende T-cellen), die juist onderdukt worden.
 
 <img src="Resultaten/hsa05323 pathview results.png" width ="500" height ="350">
 Figuur 3: KEGG pathview afbeelding, geeft duidelijk verhoogd (Rood) en verlaagde (Groen) activiteit van ontstekingsgenen weer.

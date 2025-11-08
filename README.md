@@ -38,6 +38,8 @@ Vervolgens werd met een R-pakket (goseq) onderzocht welke biologische processen 
 
 [![Klik hier voor het volledige script](https://img.shields.io/badge/script-pink?style=flat&logo=R&logoColor=white)](Scripts/Script R Casus.R)
 
+[![Klik hier voor het volledige script](https://img.shields.io/badge/Script_R_Casus-pink?style=flat&logo=R&logoColor=white)](scripts/Script%20R%20Casus.R)
+
 
 ## 📊 Resultaten
 

@@ -33,7 +33,7 @@ Met featureCounts werd er een countmatrix gemaakt, waarbij een aangepaste GTF-an
 De verschillen in genexpressie tussen RA en controle werden bepaald met het pakket DESeq2. De resultaten werden geëxporteerd naar een CSV-bestand en gevisualiseerd met behulp van EnhancedVolcano.
 Vervolgens werd met een R-pakket (goseq) onderzocht welke biologische processen verhoogt voorkwamen in genen die anders tot expressie kwamen bij RA. Deze processen (Go-termen) kunnen betrokken zijn bij de ziekte en werden gevisualiseerd met behulp van ggplots2. Daarna is er een KEGG-analyse om dieper in te gaan op de biochemische pathways, die zijn gevisualiseerd met behulp van pathview. Het onderzoek is vastgelegd volgend de principes van data stewardship, met duidelijke mappen structuur en reproduceerbaarheid. 
 
-📄 **[Klik hier voor het volledige script](script.R)**  
+📄 **[Klik hier voor het volledige script](script R Casus.R)**  
 
 [![Klik hier voor het volledige script](https://img.shields.io/badge/script-pink?style=flat&logo=R&logoColor=white)](script.R)
 
@@ -68,6 +68,6 @@ Figuur 3: KEGG pathview afbeelding, geeft duidelijk verhoogd (Rood) en verlaagde
 
 
 ## ⚡Conclusie
-De resultaten tonen aan dat er een verandering in genexpressie is bij patiënten RA. Dit is bevestigd in de volcanoplot, die aangaf dat er een veel significant verschillende genen zijn bij RA patiënten. In de Go-analyse is aangetoond dat veel genen die significant verschillen betrokken zijn bij het immuunrespons. Dit is verder bevestigd door de KEGG pathways waar genen **IL6, IL1β en MMP13** verhoogd tot expressie kwamen. Deze genen zijn betrokken bij ontsteking, kraakbeenschade en gewrichtsvernietiging. Ook waren er genen zoals, **TGFβ**, (betrokken bij immuunonderdrukking en weefselherstel) en **IL23** (stimuleert ontstekingsbevorderende T-cellen), die juist onderdukt werden. Dit gaf aan dat er bij mensen met RA een verstoring plaats vond in ontstekingregulatie.
+De resultaten tonen aan dat er een verandering in genexpressie is bij patiënten RA. Dit is bevestigd in de volcanoplot, die aangaf dat er een veel significant verschillende genen zijn bij RA patiënten. In de Go-analyse is aangetoond dat veel genen die significant verschillen betrokken zijn bij het **immuunrespons**. Dit is verder bevestigd door de KEGG pathways waar genen **IL6, IL1β en MMP13** verhoogd tot expressie kwamen. Deze genen zijn betrokken bij ontsteking, kraakbeenschade en gewrichtsvernietiging. Ook waren er genen zoals, **TGFβ**, (betrokken bij immuunonderdrukking en weefselherstel) en **IL23** (stimuleert ontstekingsbevorderende T-cellen), die juist onderdukt werden. Dit gaf aan dat er bij mensen met RA een verstoring plaats vond in ontstekingregulatie.
 
 In dit onderzoek is dus aangetoond dat transcriptomics een handige tool is in het begrijpen van de ziekte RA. Daarom word aanbevolen meer onderzoek te doen met grotere groepen en bijvoorbeeld verschillende statia RA, om hopelijk meer mogelijke biomarkers te ontdekken.
